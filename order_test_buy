@@ -1,0 +1,6 @@
+print("===================================")
+print("PRUEBA DE COMPRA - MODO SEGURO")
+print("NO SE ENVIARÁ NINGUNA ORDEN REAL")
+print("Máximo por operación: $5")
+print("Máximo total: $20")
+print("===================================")
